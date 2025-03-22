@@ -1,0 +1,21 @@
+{
+  "welcome" : "welcome ssss",
+  "error": {
+    "credentials_taken": "Credentials already in use.",
+    "internal_server": "An internal error has occurred.",
+    "database_connection": "Database connection issue."
+  },
+  "info": {
+    "operation_success": "The operation was successful.",
+    "welcome" : "welcome"
+  },
+  "warning": {
+    "deprecated_api": "This API is deprecated and will be removed soon."
+  },
+  "validation": {
+    "required_field": "This field is required.",
+    "invalid_format": "The data format is invalid.",
+    "invalid_length": "The length must be between {{min}} and {{max}} characters.",
+    "invalid_email": "The provided email address is not valid."
+  }
+}

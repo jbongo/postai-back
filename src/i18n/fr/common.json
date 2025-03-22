@@ -1,0 +1,21 @@
+{
+  "welcome": "Bienvenue {{Name}}",
+  "error": {
+    "credentials_taken": "Les identifiants sont déjà utilisés.",
+    "internal_server": "Une erreur interne est survenue.",
+    "database_connection": "Problème de connexion à la base de données."
+  },
+  "info": {
+    "operation_success": "L'opération a réussi.",
+    "welcome": "Bienvenue 2 {{Name}}"
+  },
+  "warning": {
+    "deprecated_api": "Cette API est obsolète et sera supprimée bientôt."
+  },
+  "validation": {
+    "required_field": "Ce champ est obligatoire.",
+    "invalid_format": "Le format des données est invalide.",
+    "invalid_length":  "{{Name}}, la longueur doit être entre {{min}} et {{max}} caractères.",
+    "invalid_email": "L'adresse e-mail fournie n'est pas valide."
+  }
+}

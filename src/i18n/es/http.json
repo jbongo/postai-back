@@ -1,0 +1,29 @@
+{
+    "success": {
+      "200": {
+        "ok": "Succès",
+        "created": "Créé avec succès."
+      }
+    },
+    "client_error": {
+      "400": {
+        "bad_request": "Requête invalide.",
+        "missing_parameter": "Un paramètre obligatoire est manquant."
+      },
+      "401": {
+        "unauthorized": "Non autorisé."
+      },
+      "403": {
+        "forbidden": "Accès interdit."
+      },
+      "404": {
+        "not_found": "Ressource non trouvée."
+      }
+    },
+    "server_error": {
+      "500": {
+        "internal": "Erreur interne du serveur."
+      }
+    }
+  }
+  

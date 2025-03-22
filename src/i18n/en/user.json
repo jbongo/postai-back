@@ -1,0 +1,18 @@
+{
+    "error": {
+      "user_not_found": "Utilisateur non trouvé.",
+      "email_already_used": "Cet email est déjà utilisé."
+    },
+    "info": {
+      "profile_updated": "Votre profil a été mis à jour.",
+      "welcome_user": "Bienvenue, {{name}} !"
+    },
+    "warning": {
+      "profile_incomplete": "Votre profil n'est pas complet."
+    },
+    "validation": {
+      "username_required": "Le nom d'utilisateur est obligatoire."
+    }
+  }
+  
+  
